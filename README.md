@@ -22,3 +22,28 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/pedrinholemes/nlw1?style=social">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://gitpod.io/#https://github.com/pedrinholemes/nlw1">GITPOD</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+## :information_source: How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [NPM](https://npmjs.com) installed on your computer.
+
+From your command line:
+
+### Install Application 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/pedrinholemes/nlw1
+
+# Install dependencies
+$ npm install
+
+# Run
+$ npm start
+
+```
