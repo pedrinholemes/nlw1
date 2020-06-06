@@ -22,4 +22,3 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/pedrinholemes/nlw-1?style=social">
   </a>
 </p>
-# nlw1
