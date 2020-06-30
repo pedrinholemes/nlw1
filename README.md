@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: NextLevelWeek 1.0 :construction:
+	🚧 NextLevelWeek 1.0 🚧
 </h4>
 <p align="center">
 
@@ -28,7 +28,7 @@
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: How To Use
+## ℹ️ How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [NPM](https://npmjs.com) installed on your computer.
 
